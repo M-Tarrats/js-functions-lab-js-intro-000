@@ -1,10 +1,10 @@
 // write your code below!
-function happyHolidays()
-switch ("Happy holidays!") {
-  case happyHolidays:
-  return "Happy holidays!"
-
-    break;
-  default:
-
+function happyHolidays(){
+  switch (happyHolidays) {
+    case "Happy holidays!":
+      return "Happy holidays!"
+      break;
+    default:
+      
+  }
 }

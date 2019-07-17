@@ -2,8 +2,8 @@
 function("happyHolidays!")
 switch (expression) {
   case expression:
-    
+
     break;
   default:
-    
+
 }

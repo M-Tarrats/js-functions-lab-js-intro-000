@@ -2,3 +2,7 @@
 function happyHolidays(){
 
 }
+
+function happyHolidaysTo(name) {
+
+}

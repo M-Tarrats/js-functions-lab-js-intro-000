@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays("happyHolidays"){
+function (happyHolidays){
   switch (happyHolidays) {
     case "Happy holidays!":
       return "Happy holidays!"

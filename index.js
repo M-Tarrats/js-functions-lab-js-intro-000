@@ -5,6 +5,6 @@ function happyHolidays(){
       return "Happy holidays!"
       break;
     default:
-      
+
   }
 }
